@@ -51,6 +51,6 @@ This enables workloads to securely access Azure services such as:
 Azure uses the cluster’s **OIDC identity provider endpoint** to validate and authorize requests.
 
 # Links
-- [Bootstrap Repo](dev.azure.com:v3/quadsolutions/SupplyLink/pionative-infra)
+- [Bootstrap Repo]([https://dev.azure.com:v3/quadsolutions/SupplyLink/pionative-infra](https://dev.azure.com/quadsolutions/SupplyLink/_git/pionative-infra)
 - [ArgoCD](https://argocd.internal.staging.pionative.quad.team)
 - [Grafana](https://grafana.internal.staging.pionative.quad.team)
